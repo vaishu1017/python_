@@ -1,0 +1,2 @@
+for i in range(15,4,-1):
+    print(i,end=",")
